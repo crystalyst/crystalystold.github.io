@@ -26,7 +26,7 @@ module.exports = {
   ],
   author: {
     name: 'Jason You',
-    photo: 'HS204829-Edit.jpg',
+    photo: 'https://cdn.pixabay.com/photo/2019/06/13/09/41/business-4271251_960_720.png',
     bio: 'A Computer Science/Mathematics student, interested in Martial Arts and Literature.',
     contacts: {
       email: 'jy2908@columbia.edu',
