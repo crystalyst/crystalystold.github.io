@@ -27,7 +27,7 @@ module.exports = {
   author: {
     name: 'Jason You',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'A Computer Science student',
     contacts: {
       email: '',
       facebook: '#',
