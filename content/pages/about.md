@@ -1,7 +1,7 @@
 ---
 title: "About me"
 template: "page"
-socialImage: "/src/images/HS204829-Edit.jpg"
+socialImage: "/HS204829-Edit.jpg"
 ---
 
 I am a rising senior majoring in Mathematics and Computer Science in Columbia University in the city of New York. Currently working on back-end skillsets, such as Django, Python, and Java, by conducting multiple individual/team projects.
