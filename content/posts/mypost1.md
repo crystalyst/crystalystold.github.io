@@ -1,15 +1,15 @@
 ---
-title: Launch My First Gatsby Blog
+title: "Python Quick Refresher"
 date: "2020-07-13T22:40:32.169Z"
 template: "post"
 draft: false
-slug: "launch-my-first-gatsby-blog"
+slug: "python-quick-refresher"
 category: "Web Development"
 tags:
-  - "Design"
-  - "Frontend"
+  - "Python"
+  - "Backend"
   - "Web Development"
-description: "My first journey on gatsby blog development."
+description: "Quick Review on some crucial concepts of Python."
 socialImage: "/media/42-line-bible.jpg"
 ---
 
@@ -18,7 +18,7 @@ socialImage: "/media/42-line-bible.jpg"
 - [Loss of humanity through transitions](#loss-of-humanity-through-transitions)
 - [Chasing perfection](#chasing-perfection)
 
-My first journey on gatsby blog development.
+Quick Review on some crucial concepts of Python.
 
 First Placeholder.
 
