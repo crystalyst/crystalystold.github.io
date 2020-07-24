@@ -14,7 +14,7 @@ description: "Quick Refresher on Django Tutorial"
 socialImage: "/media/42-line-bible.jpg"
 ---
 
-- [The first transition](#the-first-transition)
+- [Install Django](#)
 - [The digital age](#the-digital-age)
 - [Loss of humanity through transitions](#loss-of-humanity-through-transitions)
 - [Chasing perfection](#chasing-perfection)
