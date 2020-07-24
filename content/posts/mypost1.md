@@ -1,6 +1,6 @@
 ---
 title: "Python Quick Refresher"
-date: "2020-07-13T22:40:32.169Z"
+date: "2020-07-15T22:40:32.169Z"
 template: "post"
 draft: false
 slug: "python-quick-refresher"
