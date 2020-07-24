@@ -19,6 +19,8 @@ socialImage: "/media/42-line-bible.jpg"
 - [Loss of humanity through transitions](#loss-of-humanity-through-transitions)
 - [Chasing perfection](#chasing-perfection)
 
+![42-line-bible.jpg](/media/42-line-bible.jpg)
+
 To start using Python and Django Web Framework for my summer internship as a Back-end engineer, I am starting to learn Django with the official documentation.
 
 This is the tutorial to make a simple project, which is called "mysite," contaning an application named polls and admin.
@@ -26,14 +28,12 @@ This is the tutorial to make a simple project, which is called "mysite," contani
 - The polls app lets user view polls and make votes
 - The admin site enables user to modify and view the polls database.
 
-## Create a project
+## Before starting the project
 
-First Placeholder.
+Assuming that Django is already installed in the current virtual directory, create the project with django.
 
-Second Placeholder.
+```django-admin startproject mysite```
 
-![42-line-bible.jpg](/media/42-line-bible.jpg)
+Then, you can see a project directory 
 
-*The 42–Line Bible, printed by Gutenberg.*
-
-First Placeholder.
+![Tutorial1-1.jpg](/media/Tutorial1-1.jpg)
