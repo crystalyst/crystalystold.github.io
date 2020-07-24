@@ -187,7 +187,7 @@ module.exports = {
         background_color: '#FFF',
         theme_color: '#F7A046',
         display: 'standalone',
-        icon: 'src/images/technology-785742_1920.jpg'
+        icon: 'static/image.jpg'
       },
     },
     'gatsby-plugin-offline',
