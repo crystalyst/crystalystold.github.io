@@ -1,5 +1,5 @@
 ---
-title: Launch My First Gatsby Blog
+title: "Django Tutorial 1"
 date: "2020-07-13T22:40:32.169Z"
 template: "post"
 draft: false
@@ -19,13 +19,14 @@ socialImage: "/media/42-line-bible.jpg"
 - [Loss of humanity through transitions](#loss-of-humanity-through-transitions)
 - [Chasing perfection](#chasing-perfection)
 
-Quick Review on some crucial concepts of Python.
+To start using Python and Django Web Framework for my summer internship as a Back-end engineer, I am starting to learn Django with the official documentation.
 
-First Placeholder.
+This is the tutorial to make a simple project, which is called "mysite," contaning an application named polls and admin.
 
-Second Placeholder.
+- The polls app lets user view polls and make votes
+- The admin site enables user to modify and view the polls database.
 
-## The first transition
+## Create a project
 
 First Placeholder.
 
