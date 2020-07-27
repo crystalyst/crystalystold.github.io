@@ -14,7 +14,7 @@ description: "Quick Refresher on Django Tutorial"
 socialImage: "/media/42-line-bible.jpg"
 ---
 
-- [Install Django](#)
+- [Basic setup for the project](#basic-setup-for-the-project)
 - [The digital age](#the-digital-age)
 - [Loss of humanity through transitions](#loss-of-humanity-through-transitions)
 - [Chasing perfection](#chasing-perfection)
@@ -73,7 +73,25 @@ So, to register the polls application, we can simply write the name of our newly
 Now we have installed our first application in this Django project!
 
 
-## Basic setup for the project
+## Construct a database
+
+Before we make actual functions that make us view and make polls, we are going to build a database for this polls application. This is called models.py located in the polls directory.
+
+- To make a database, we need to decide which database engine will be used in this Django project. In this project, we will use the default database sqlite3 same as the tutorial.
+
+Let's edit the polls/models.py to build the database.
+
+<pre>
+<code>
+#As Django provides a default models module, we are 
+from django.db import models 
+
+</code>
+</pre>
+
+As 
+
+
 
 Now, let's make some functions for the newly created polls application.
 
