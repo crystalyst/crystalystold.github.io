@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog by Jason You]]></title><description><![CDATA[A Computer Science/Mathematics student, interested in Martial Arts and Literature.]]></description><link>https://crystalyst.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 24 Jul 2020 08:22:29 GMT</lastBuildDate><item><title><![CDATA[Django Tutorial 1]]></title><description><![CDATA[Quick Refresher on Django Tutorial]]></description><link>https://crystalyst.github.io/posts/django-tutorial-polls</link><guid isPermaLink="false">https://crystalyst.github.io/posts/django-tutorial-polls</guid><pubDate>Thu, 23 Jul 2020 22:40:32 GMT</pubDate><content:encoded>&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;#the-first-transition&quot;&gt;The first transition&lt;/a&gt;&lt;/li&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog by Jason You]]></title><description><![CDATA[A Computer Science/Mathematics student, interested in Martial Arts and Literature.]]></description><link>https://crystalyst.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 27 Jul 2020 10:36:56 GMT</lastBuildDate><item><title><![CDATA[Django Tutorial 1]]></title><description><![CDATA[Quick Refresher on Django Tutorial]]></description><link>https://crystalyst.github.io/posts/django-tutorial-polls</link><guid isPermaLink="false">https://crystalyst.github.io/posts/django-tutorial-polls</guid><pubDate>Thu, 23 Jul 2020 22:40:32 GMT</pubDate><content:encoded>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;Install Django&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;#the-digital-age&quot;&gt;The digital age&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;#loss-of-humanity-through-transitions&quot;&gt;Loss of humanity through transitions&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;#chasing-perfection&quot;&gt;Chasing perfection&lt;/a&gt;&lt;/li&gt;
@@ -56,7 +56,7 @@
 &lt;h2 id=&quot;chasing-perfection&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#chasing-perfection&quot; aria-label=&quot;chasing perfection permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Chasing perfection&lt;/h2&gt;
 &lt;p&gt;Human beings aren’t perfect. Perfection is something that will always elude us. There will always be a small part of humanity in everything we do. No matter how small that part, we should make sure that it transcends the limits of the medium. We have to think about the message first. What typeface should we use and why? Does the typeface match the message and what we want to communicate with it? What will be the leading and why? Will there be more typefaces in our design? On what ground will they be combined? What makes our design unique and why? This is the part of humanity that is left in typography. It might be the last part. Are we really going to give it up?&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Originally published by &lt;a href=&quot;http://matejlatin.co.uk/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Matej Latin&lt;/a&gt; on &lt;a href=&quot;https://medium.com/design-notes/humane-typography-in-the-digital-age-9bd5c16199bd?ref=webdesignernews.com#.lygo82z0x&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Medium&lt;/a&gt;.&lt;/em&gt; &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Django Tutorial 1]]></title><description><![CDATA[Quick Refresher on Django Tutorial]]></description><link>https://crystalyst.github.io/posts/django-tutorial-polls</link><guid isPermaLink="false">https://crystalyst.github.io/posts/django-tutorial-polls</guid><pubDate>Mon, 13 Jul 2020 22:40:32 GMT</pubDate><content:encoded>&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;#&quot;&gt;Install Django&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#basic-setup-for-the-project&quot;&gt;Basic setup for the project&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;#the-digital-age&quot;&gt;The digital age&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;#loss-of-humanity-through-transitions&quot;&gt;Loss of humanity through transitions&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;#chasing-perfection&quot;&gt;Chasing perfection&lt;/a&gt;&lt;/li&gt;
@@ -68,11 +68,58 @@
 &lt;li&gt;The polls app lets user view polls and make votes&lt;/li&gt;
 &lt;li&gt;The admin site enables user to modify and view the polls database.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&quot;before-starting-the-project&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#before-starting-the-project&quot; aria-label=&quot;before starting the project permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Before starting the project&lt;/h2&gt;
+&lt;h2 id=&quot;basic-setup-for-the-project&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#basic-setup-for-the-project&quot; aria-label=&quot;basic setup for the project permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Basic setup for the project&lt;/h2&gt;
 &lt;p&gt;Assuming that Django is already installed in the current virtual directory, create the project with django.&lt;/p&gt;
 &lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;django-admin startproject mysite&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;Then, you can see a project directory &lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/media/Tutorial1-1.jpg&quot; alt=&quot;Tutorial1-1.jpg&quot;&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Johannes Gutenberg: The Birth of Movable Type]]></title><description><![CDATA[German inventor Johannes Gutenberg developed a method of movable type and used it to create one of the western world’s first major printed books, the “Forty–Two–Line” Bible.]]></description><link>https://crystalyst.github.io/posts/the-birth-of-movable-type</link><guid isPermaLink="false">https://crystalyst.github.io/posts/the-birth-of-movable-type</guid><pubDate>Fri, 18 Aug 2017 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;German inventor Johannes Gutenberg developed a method of movable type and used it to create one of the western world’s first major printed books, the “Forty–Two–Line” Bible.&lt;/p&gt;
+&lt;p&gt;Then, we can see a project directory, “mysite,” containing manage.py and its subdirectory “mysite.”&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;manage.py is a python file that enables a programmer to interact with this Django project (associated with variouscommands - I’d recommend not to edit this!)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;/media/Tutorial1-1.jpg&quot; alt=&quot;Tutorial1-1.jpg&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Not to get confused, since the mother directory and its subdirectory have the idential name, “mysite,” change the mother directory’s name to mysite_project. (You cannot change the subdirectory’s name, as it is used by Django as things go on)&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;mv mysite mysite_project&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/media/Tutorial1-1.jpg&quot; alt=&quot;Tutorial1-1.jpg&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Let’s move into mysite_project directory now. Since we need an application that enables users to view and make polls, create polls application. &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Each Django project can contain multiple applications and apps can be reused in other Django projects.&lt;/li&gt;
+&lt;li&gt;To make an application for this Django project, we need to be located in the directory where manage.py is at.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;python manage.py startapp polls&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/media/Tutorial1-1.jpg&quot; alt=&quot;Tutorial1-1.jpg&quot;&gt;&lt;/p&gt;
+&lt;p&gt;However, even if we just created the polls application, our Django project, mysite, cannot recognize it automatically. &lt;/p&gt;
+&lt;p&gt;So, we need to register the polls application in the project settings, which is settings.py, located in the mysite directory.&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;vi settings.py&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/media/Tutorial1-1.jpg&quot; alt=&quot;Tutorial1-1.jpg&quot;&gt;&lt;/p&gt;
+&lt;p&gt;As we can see, there is a section called INSTALLED_APPS in settings.py, having all applications installed in the current Django project.&lt;/p&gt;
+&lt;p&gt;So, to register the polls application, we can simply write the name of our newly created application, polls, in INSTALLED_APPS.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/media/Tutorial1-1.jpg&quot; alt=&quot;Tutorial1-1.jpg&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Now we have installed our first application in this Django project!&lt;/p&gt;
+&lt;h2 id=&quot;construct-a-database&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#construct-a-database&quot; aria-label=&quot;construct a database permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Construct a database&lt;/h2&gt;
+&lt;p&gt;Before we make actual functions that make us view and make polls, we are going to build a database for this polls application. This is called models.py located in the polls directory.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;To make a database, we need to decide which database engine will be used in this Django project. In this project, we will use the default database sqlite3 same as the tutorial.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Let’s edit the polls/models.py to build the database.&lt;/p&gt;
+&lt;pre&gt;
+&lt;code&gt;
+#As Django provides a default models module, we are 
+from django.db import models 
+
+&lt;/code&gt;
+&lt;/pre&gt;
+&lt;p&gt;As &lt;/p&gt;
+&lt;p&gt;Now, let’s make some functions for the newly created polls application.&lt;/p&gt;
+&lt;p&gt;After moving into the polls directory, edit views.py, which will contain actual functions like voting for the application.&lt;/p&gt;
+&lt;p&gt;Finally, what we need to touch base on for the basic setting is URL. Django finds applications and their views with URLS, &lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;vi views.py&lt;/code&gt;&lt;/p&gt;
+&lt;pre&gt;
+&lt;code&gt;
+from django.http import HttpResponse
+
+def index(request):
+	return HttpResponse(&quot;This is a polls application&quot;)
+&lt;/code&gt;
+&lt;/pre&gt;</content:encoded></item><item><title><![CDATA[Johannes Gutenberg: The Birth of Movable Type]]></title><description><![CDATA[German inventor Johannes Gutenberg developed a method of movable type and used it to create one of the western world’s first major printed books, the “Forty–Two–Line” Bible.]]></description><link>https://crystalyst.github.io/posts/the-birth-of-movable-type</link><guid isPermaLink="false">https://crystalyst.github.io/posts/the-birth-of-movable-type</guid><pubDate>Fri, 18 Aug 2017 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;German inventor Johannes Gutenberg developed a method of movable type and used it to create one of the western world’s first major printed books, the “Forty–Two–Line” Bible.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Johannes Gensfleisch zur Laden zum Gutenberg&lt;/strong&gt; (c. 1398 – 1468) was a German blacksmith, goldsmith, printer, and publisher who introduced printing to Europe. His invention of mechanical movable type printing started the Printing Revolution and is widely regarded as the most important event of the modern period. It played a key role in the development of the Renaissance, Reformation, the Age of Enlightenment, and the Scientific revolution and laid the material basis for the modern knowledge-based economy and the spread of learning to the masses.&lt;/p&gt;
 &lt;figure class=&quot;float-right&quot; style=&quot;width: 240px&quot;&gt;
 	&lt;img src=&quot;/media/gutenberg.jpg&quot; alt=&quot;Gutenberg&quot;&gt;
