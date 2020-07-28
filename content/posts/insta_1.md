@@ -1,5 +1,5 @@
 ---
-title: "Django Tutorial 1"
+title: "Setting up a virtual environment with Django"
 date: "2020-06-14T22:40:32.169Z"
 template: "post"
 draft: false
@@ -14,13 +14,13 @@ description: "How to create a virtual environment for a web programming project.
 socialImage: "/media/42-line-bible.jpg"
 ---
 
-- [Why do wee need a Virtual Environment?](#why-do-we-need-a-virtual-environment)
+- [Why do we need a Virtual Environment?](#why-do-we-need-a-virtual-environment)
 - [Installing a Virtual Environment](#installing-a-virtual-environment)
 - [Use the installed Virtual Environment using miniconda](#use-the-installed-virtual-environment-using-miniconda)
 
 ![42-line-bible.jpg](/media/42-line-bible.jpg)
 
-To create Sign in / Sign Up Endpoint with Django for practice, we will be going to utilize a Virtual Environment.
+To create **Sign in / Sign Up Endpoint** with Django for practice, we will be going to utilize a Virtual Environment.
 
 ## Why do we need a Virtual Environment?
 
