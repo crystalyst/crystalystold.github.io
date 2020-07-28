@@ -1,6 +1,6 @@
 ---
 title: "Modifying the main setting file to start a Django project"
-date: "2020-06-08T22:40:32.169Z"
+date: "2020-06-09T22:40:32.169Z"
 template: "post"
 draft: false
 slug: "django-endpoint-practice"

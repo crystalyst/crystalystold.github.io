@@ -1,6 +1,6 @@
 ---
 title: "Setting up a virtual environment with Django"
-date: "2020-06-14T22:40:32.169Z"
+date: "2020-06-07T22:40:32.169Z"
 template: "post"
 draft: false
 slug: "django-endpoint-practice"
@@ -78,3 +78,5 @@ There are many tools to create a Virtual Environment. In this post, we will use 
 ```cd <proj_name>```
 
 Now, we are at the virtual environment where Django is installed!
+
+In the next post, we will be going to modify a project setting file before initiating the project. 
