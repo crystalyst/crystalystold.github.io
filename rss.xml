@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog by Jason You]]></title><description><![CDATA[A Computer Science/Mathematics student, interested in Martial Arts and Literature.]]></description><link>https://crystalyst.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 28 Jul 2020 08:23:26 GMT</lastBuildDate><item><title><![CDATA[Django Tutorial 1]]></title><description><![CDATA[Quick Refresher on Django Tutorial]]></description><link>https://crystalyst.github.io/posts/django-tutorial-polls</link><guid isPermaLink="false">https://crystalyst.github.io/posts/django-tutorial-polls</guid><pubDate>Thu, 23 Jul 2020 22:40:32 GMT</pubDate><content:encoded>&lt;ul&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog by Jason You]]></title><description><![CDATA[A Computer Science/Mathematics student, interested in Martial Arts and Literature.]]></description><link>https://crystalyst.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 28 Jul 2020 08:54:17 GMT</lastBuildDate><item><title><![CDATA[Django Tutorial 1]]></title><description><![CDATA[Quick Refresher on Django Tutorial]]></description><link>https://crystalyst.github.io/posts/django-tutorial-polls</link><guid isPermaLink="false">https://crystalyst.github.io/posts/django-tutorial-polls</guid><pubDate>Thu, 23 Jul 2020 22:40:32 GMT</pubDate><content:encoded>&lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;#&quot;&gt;Install Django&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;#the-digital-age&quot;&gt;The digital age&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;#loss-of-humanity-through-transitions&quot;&gt;Loss of humanity through transitions&lt;/a&gt;&lt;/li&gt;
@@ -12,7 +12,13 @@
 &lt;p&gt;Second Placeholder.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/media/42-line-bible.jpg&quot; alt=&quot;42-line-bible.jpg&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;The 42–Line Bible, printed by Gutenberg.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;First Placeholder.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Python Quick Refresher]]></title><description><![CDATA[Quick Review on some crucial concepts of Python.]]></description><link>https://crystalyst.github.io/posts/python-quick-refresher</link><guid isPermaLink="false">https://crystalyst.github.io/posts/python-quick-refresher</guid><pubDate>Wed, 15 Jul 2020 22:40:32 GMT</pubDate><content:encoded>&lt;ul&gt;
+&lt;p&gt;First Placeholder.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Koodon - Internship Week 1 log]]></title><description><![CDATA[A weekly log for my Software Engineering summer internship at Koodon - Week 1]]></description><link>https://crystalyst.github.io/posts/summer-internship-2020</link><guid isPermaLink="false">https://crystalyst.github.io/posts/summer-internship-2020</guid><pubDate>Fri, 17 Jul 2020 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=&quot;/media/42-line-bible.jpg&quot; alt=&quot;42-line-bible.jpg&quot;&gt;&lt;/p&gt;
+&lt;p&gt;The work environment here at &lt;strong&gt;Koodon Inc.&lt;/strong&gt;, located in the middle of Gangnam District in Seoul, was way better than I thought! Even though it is a small startup having 6-10 employees in total, my fellow interns and I received our seats and tools we need, such as monitors.&lt;/p&gt;
+&lt;p&gt;I was very surprised since the company wants us, four software engineer interns, to build an entire website and mobile app that would replace its current website. AND &lt;strong&gt;THERE IS NO PROGRAMMER in this team at the moment!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This week, I have had several meetings, on daily basis, with entire staffs and fellow interns to talk about product design and to set up the timeline for this project.&lt;/p&gt;
+&lt;p&gt;I was wondering why the company wants to build its own website although their service has been active almost for a year (and quite successful).&lt;/p&gt;
+&lt;p&gt;The current website and mobile apps of Koodon were created under an e-commerce website solution, but the company wants to step out of the platform because both the CEO and a UX/UI designer believe changing User Interface is necessary to bring their business to the next level.&lt;/p&gt;
+&lt;p&gt;In this sense, even if this could be a little challenging mission for an unexperienced software developer, building/planning the web program that will be live on market from the scratch, I think this would be an interesting and rewarding journey to start on.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Python Quick Refresher]]></title><description><![CDATA[Quick Review on some crucial concepts of Python.]]></description><link>https://crystalyst.github.io/posts/python-quick-refresher</link><guid isPermaLink="false">https://crystalyst.github.io/posts/python-quick-refresher</guid><pubDate>Wed, 15 Jul 2020 22:40:32 GMT</pubDate><content:encoded>&lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;#the-first-transition&quot;&gt;The first transition&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;#the-digital-age&quot;&gt;The digital age&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;#loss-of-humanity-through-transitions&quot;&gt;Loss of humanity through transitions&lt;/a&gt;&lt;/li&gt;
@@ -119,7 +125,53 @@ from django.http import HttpResponse
 def index(request):
 	return HttpResponse(&quot;This is a polls application&quot;)
 &lt;/code&gt;
-&lt;/pre&gt;</content:encoded></item><item><title><![CDATA[Setting up a virtual environment with Django]]></title><description><![CDATA[How to create a virtual environment for a web programming project.]]></description><link>https://crystalyst.github.io/posts/django-endpoint-practice</link><guid isPermaLink="false">https://crystalyst.github.io/posts/django-endpoint-practice</guid><pubDate>Sun, 14 Jun 2020 22:40:32 GMT</pubDate><content:encoded>&lt;ul&gt;
+&lt;/pre&gt;</content:encoded></item><item><title><![CDATA[Modifying the main setting file to start a Django project]]></title><description><![CDATA[How to modify settings.py in a Django project directory.]]></description><link>https://crystalyst.github.io/posts/django-endpoint-practice</link><guid isPermaLink="false">https://crystalyst.github.io/posts/django-endpoint-practice</guid><pubDate>Tue, 09 Jun 2020 22:40:32 GMT</pubDate><content:encoded>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#create-a-django-project&quot;&gt;Create a Django project&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#modifying-practice-project-settings.py&quot;&gt;Modifying practice_project/settings.py&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;/media/42-line-bible.jpg&quot; alt=&quot;42-line-bible.jpg&quot;&gt;&lt;/p&gt;
+&lt;p&gt;In the last post, we went over how to create a virtual environment with Django, and why we need to use it.&lt;/p&gt;
+&lt;p&gt;In this post, using the virtual environment we created, we will create a Django project that contains Sign-in / Sign-up endpoints. &lt;/p&gt;
+&lt;h2 id=&quot;create-a-django-project&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#create-a-django-project&quot; aria-label=&quot;create a django project permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Create a Django project&lt;/h2&gt;
+&lt;p&gt;After moving into the directory we created for a web project, use commands below:&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;django-admin startproject practice_project&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Then, by using a finder/file explorer, we can now see there are new files and directories created within the current directory we are located.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;If you have installed &lt;strong&gt;tree command&lt;/strong&gt;, then you can use it to see files/directories in a graph form. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;brew install tree&lt;/code&gt;
+&lt;code class=&quot;language-text&quot;&gt;tree practice_project&lt;/code&gt;&lt;/p&gt;
+&lt;h2 id=&quot;modifying-practice_projectsettingspy&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#modifying-practice_projectsettingspy&quot; aria-label=&quot;modifying practice_projectsettingspy permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Modifying practice_project/settings.py&lt;/h2&gt;
+&lt;p&gt;Before starting to actually code, we will modify settings.py, which is an overall setting file for this django project.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;First, since this is for practice, we do not need to specify the host who can access to this project. So, we can change ALLOWED_HOSTS like below:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;ALLOWED_HOSTS = [&amp;#39;*&amp;#39;]&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Second, since we are only going to make endpoints for Sign in and Sign up, which are only back-end side, we will delete Django Admin part. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Also, we are not going to touch base on authentication and security too much at this moment, so that we need to modify these.&lt;/p&gt;
+&lt;pre&gt;
+&lt;code&gt;
+INSTALLED_APPS = [
+  &apos;django.contrib.contenttypes&apos;,
+  &apos;django.contrib.sessions&apos;,
+  &apos;django.contrib.messages&apos;,
+  &apos;django.contrib.staticfiles&apos;
+  # deleted admin and auth
+]
+
+MIDDLEWARE = [
+  &apos;django.middleware.security.SecurityMiddleware&apos;,
+  &apos;django.contrib.sessions.middleware.SessionMiddleware&apos;,
+  &apos;django.middleware.common.CommonMiddleware&apos;,
+  &apos;django.contrib.messages.middleware.MessageMiddleware&apos;,
+  &apos;django.middleware.clickjacking.XFrameOptionsMiddleware&apos;,
+  # deleted csrfViewMiddleware and AuthenticationMiddleware
+]
+&lt;/code&gt;
+&lt;/pre&gt;
+&lt;p&gt;In the next post, we will be going to create a Django application that does provide sign in/sign up endpoints!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Setting up a virtual environment with Django]]></title><description><![CDATA[How to create a virtual environment for a web programming project.]]></description><link>https://crystalyst.github.io/posts/django-endpoint-practice</link><guid isPermaLink="false">https://crystalyst.github.io/posts/django-endpoint-practice</guid><pubDate>Sun, 07 Jun 2020 22:40:32 GMT</pubDate><content:encoded>&lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;#why-do-we-need-a-virtual-environment&quot;&gt;Why do we need a Virtual Environment?&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;#installing-a-virtual-environment&quot;&gt;Installing a Virtual Environment&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;#use-the-installed-virtual-environment-using-miniconda&quot;&gt;Use the installed Virtual Environment using miniconda&lt;/a&gt;&lt;/li&gt;
@@ -174,53 +226,8 @@ def index(request):
 &lt;/ul&gt;
 &lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;mkdir &amp;lt;proj_name&amp;gt;&lt;/code&gt;
 &lt;code class=&quot;language-text&quot;&gt;cd &amp;lt;proj_name&amp;gt;&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;Now, we are at the virtual environment where Django is installed!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Modifying the main setting file to start a Django project]]></title><description><![CDATA[How to modify settings.py in a Django project directory.]]></description><link>https://crystalyst.github.io/posts/django-endpoint-practice</link><guid isPermaLink="false">https://crystalyst.github.io/posts/django-endpoint-practice</guid><pubDate>Mon, 08 Jun 2020 22:40:32 GMT</pubDate><content:encoded>&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;#create-a-django-project&quot;&gt;Create a Django project&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#modifying-practice-project-settings.py&quot;&gt;Modifying practice_project/settings.py&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img src=&quot;/media/42-line-bible.jpg&quot; alt=&quot;42-line-bible.jpg&quot;&gt;&lt;/p&gt;
-&lt;p&gt;In the last post, we went over how to create a virtual environment with Django, and why we need to use it.&lt;/p&gt;
-&lt;p&gt;In this post, using the virtual environment we created, we will create a Django project that contains Sign-in / Sign-up endpoints. &lt;/p&gt;
-&lt;h2 id=&quot;create-a-django-project&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#create-a-django-project&quot; aria-label=&quot;create a django project permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Create a Django project&lt;/h2&gt;
-&lt;p&gt;After moving into the directory we created for a web project, use commands below:&lt;/p&gt;
-&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;django-admin startproject practice_project&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;Then, by using a finder/file explorer, we can now see there are new files and directories created within the current directory we are located.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;If you have installed &lt;strong&gt;tree command&lt;/strong&gt;, then you can use it to see files/directories in a graph form. &lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;brew install tree&lt;/code&gt;
-&lt;code class=&quot;language-text&quot;&gt;tree practice_project&lt;/code&gt;&lt;/p&gt;
-&lt;h2 id=&quot;modifying-practice_projectsettingspy&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#modifying-practice_projectsettingspy&quot; aria-label=&quot;modifying practice_projectsettingspy permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Modifying practice_project/settings.py&lt;/h2&gt;
-&lt;p&gt;Before starting to actually code, we will modify settings.py, which is an overall setting file for this django project.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;First, since this is for practice, we do not need to specify the host who can access to this project. So, we can change ALLOWED_HOSTS like below:&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;ALLOWED_HOSTS = [&amp;#39;*&amp;#39;]&lt;/code&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Second, since we are only going to make endpoints for Sign in and Sign up, which are only back-end side, we will delete Django Admin part. &lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Also, we are not going to touch base on authentication and security too much at this moment, so that we need to modify these.&lt;/p&gt;
-&lt;pre&gt;
-&lt;code&gt;
-INSTALLED_APPS = [
-  &apos;django.contrib.contenttypes&apos;,
-  &apos;django.contrib.sessions&apos;,
-  &apos;django.contrib.messages&apos;,
-  &apos;django.contrib.staticfiles&apos;
-  # deleted admin and auth
-]
-
-MIDDLEWARE = [
-  &apos;django.middleware.security.SecurityMiddleware&apos;,
-  &apos;django.contrib.sessions.middleware.SessionMiddleware&apos;,
-  &apos;django.middleware.common.CommonMiddleware&apos;,
-  &apos;django.contrib.messages.middleware.MessageMiddleware&apos;,
-  &apos;django.middleware.clickjacking.XFrameOptionsMiddleware&apos;,
-  # deleted csrfViewMiddleware and AuthenticationMiddleware
-]
-&lt;/code&gt;
-&lt;/pre&gt;
-&lt;p&gt;In the next post, we will be going to create a Django application that does provide sign in/sign up endpoints!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Johannes Gutenberg: The Birth of Movable Type]]></title><description><![CDATA[German inventor Johannes Gutenberg developed a method of movable type and used it to create one of the western world’s first major printed books, the “Forty–Two–Line” Bible.]]></description><link>https://crystalyst.github.io/posts/the-birth-of-movable-type</link><guid isPermaLink="false">https://crystalyst.github.io/posts/the-birth-of-movable-type</guid><pubDate>Fri, 18 Aug 2017 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;German inventor Johannes Gutenberg developed a method of movable type and used it to create one of the western world’s first major printed books, the “Forty–Two–Line” Bible.&lt;/p&gt;
+&lt;p&gt;Now, we are at the virtual environment where Django is installed!&lt;/p&gt;
+&lt;p&gt;In the next post, we will be going to modify a project setting file before initiating the project. &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Johannes Gutenberg: The Birth of Movable Type]]></title><description><![CDATA[German inventor Johannes Gutenberg developed a method of movable type and used it to create one of the western world’s first major printed books, the “Forty–Two–Line” Bible.]]></description><link>https://crystalyst.github.io/posts/the-birth-of-movable-type</link><guid isPermaLink="false">https://crystalyst.github.io/posts/the-birth-of-movable-type</guid><pubDate>Fri, 18 Aug 2017 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;German inventor Johannes Gutenberg developed a method of movable type and used it to create one of the western world’s first major printed books, the “Forty–Two–Line” Bible.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Johannes Gensfleisch zur Laden zum Gutenberg&lt;/strong&gt; (c. 1398 – 1468) was a German blacksmith, goldsmith, printer, and publisher who introduced printing to Europe. His invention of mechanical movable type printing started the Printing Revolution and is widely regarded as the most important event of the modern period. It played a key role in the development of the Renaissance, Reformation, the Age of Enlightenment, and the Scientific revolution and laid the material basis for the modern knowledge-based economy and the spread of learning to the masses.&lt;/p&gt;
 &lt;figure class=&quot;float-right&quot; style=&quot;width: 240px&quot;&gt;
 	&lt;img src=&quot;/media/gutenberg.jpg&quot; alt=&quot;Gutenberg&quot;&gt;
