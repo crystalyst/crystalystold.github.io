@@ -3,7 +3,7 @@ title: "Modifying the main setting file to start a Django project"
 date: "2020-06-09T22:40:32.169Z"
 template: "post"
 draft: false
-slug: "django-endpoint-practice"
+slug: "django-endpoint-practice-2"
 category: "Web Development"
 tags:
   - "Python"

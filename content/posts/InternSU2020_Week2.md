@@ -3,7 +3,7 @@ title: "Koodon - Internship Week 2 log"
 date: "2020-07-24T22:40:32.169Z"
 template: "post"
 draft: false
-slug: "summer-internship-2020"
+slug: "summer-internship-2020-2"
 category: "Internship"
 tags:
   - "Python"

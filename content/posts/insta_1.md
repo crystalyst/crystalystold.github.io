@@ -3,7 +3,7 @@ title: "Setting up a virtual environment with Django"
 date: "2020-06-07T22:40:32.169Z"
 template: "post"
 draft: false
-slug: "django-endpoint-practice"
+slug: "django-endpoint-practice-1"
 category: "Web Development"
 tags:
   - "Python"
