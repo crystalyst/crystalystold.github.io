@@ -19,7 +19,7 @@ socialImage: "/media/42-line-bible.jpg"
 
 The work environment here at **Koodon Inc.**, located in the middle of Gangnam District in Seoul, was way better than I thought! Even though it is a small startup having 6-10 employees in total, my fellow interns and I received our seats and tools we need, such as monitors.
 
-I was very surprised since the company wants us, four software engineer interns, to build an entire website and mobile app that would replace its current website. AND **THERE IS NO PROGRAMMER in this team at the moment!**
+I was very surprised since the company wants us, four software engineer student interns, to build an entire website and mobile app that would replace its current website. AND **THERE IS NO PROGRAMMER in this team at the moment!**
 
 This week, I have had several meetings, on daily basis, with entire staffs and fellow interns to talk about product design and to set up the timeline for this project.
 
